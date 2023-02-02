@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dost701
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, Keen of Artificial Intelligence.
 - 🌱 I’m currently learning Java Script and Python 
 - 💞️ I’m looking to collaborate on Java Script and Python
 - 📫 How to reach me +355677509290
